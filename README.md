@@ -55,8 +55,10 @@ Within each project's folder:
 ### Project List
 
 1. **01_Hello_World**  
-   _A simple Java console program that prints 'Hello, World!' and asks for user input._  
-2. ...  
+   _A simple Java console program that prints 'Hello, World!' and asks for user input._
+2. **02_Simple_Calculator**
+   _A simple calculator that allows users to input two numbers_
+3. ...  
    _And so on, progressing towards more advanced topics!_
 
 As I complete each project, I will update this list with a title, summary, and link to the subfolder.
